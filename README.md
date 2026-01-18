@@ -29,16 +29,19 @@ The goal of this task was to implement centralized access control and apply the 
 
 ---
 
-## 📸 Screenshots Evidence
+## 📸 Screenshots
 
 ### 1️⃣ AWS Identity Center Instance
-![Identity Center Instance](Week2/one.png)
+![Identity Center Instance](Week-2/one.png)
 
 ### 2️⃣ User Created
-![User Created](Week2/two.png)
+![User Created](Week-2/two.png)
 
 ### 3️⃣ Permission Set Assigned
-![Permission Set Assigned](Week2/three.png) (Week2/four.png)
+![Permission Set Assigned](Week-2/three.png) (Week2/four.png)
+
+### 4️⃣ Permission Assignment Confirmation
+![Permission Assignment Confirmation](Week-2/four.png)
 
 ---
 
